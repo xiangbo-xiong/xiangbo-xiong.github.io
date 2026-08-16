@@ -1,5 +1,5 @@
 
-[![xiangbo-xiong](https://img.shields.io/badge/Xiangbo%20Xiong-ORCID-blue?logo=github)](https://orcid.org/0000-0002-2100-5703)
+[![xiangbo-xiong](https://img.shields.io/badge/Xiangbo%20Xiong-ORCID-green?logo=github)](https://orcid.org/0000-0002-2100-5703)
 
 He is currently a Ph.D. student in Vehicle Operation Engineering at Southwest Jiaotong University, having previously earned an M.E. in Mechanical Manufacturing and Automation from Kunming University of Science and Technology and a B.E. in Agricultural Mechanization and Automation from Jiangxi Agricultural University.
 
