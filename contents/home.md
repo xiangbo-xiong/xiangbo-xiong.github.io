@@ -8,6 +8,10 @@ He is currently a Ph.D. student in Vehicle Operation Engineering at Southwest Ji
 Email: xb_xiong17@126.com
 
 #### Education
+
+Ph.D. Candidate  in Vehicle Operation Engineering,
+Southwest Jiaotong University, 2024–present
+
 M.E. in Mechanical Manufacturing and Automation,
 Kunming University of Science and Technology, 2021–2024
 
