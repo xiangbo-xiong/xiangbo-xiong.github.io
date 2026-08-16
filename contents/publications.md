@@ -1,16 +1,13 @@
-#### Accepted
-
-- <strong>S. Li</strong>*, X. Yang, S. M. Mousavi, A. Cao, K. Fan, Y. Liu, C. Wang, and Q. Niu. Learning Earthquake Wave Arrival Time Picking from Labels with Inaccuracies. <strong>In Press.</strong> [[Code]](https://github.com/senli1073/LaNCor)
 
 #### Published
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- <strong>X.B. Xiong</strong>, C.F. Zhao*, Y. Feng*, Y, et al. (2026). Study on dynamic stability and safety boundary of superconducting electrodynamic suspension system for high-speed maglev transport. <strong>Nonlinear Dynamics</strong>. [[Paper]](https://doi.org/10.1007/s11071-026-12773-5)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- <strong>X.B. Xiong</strong>, C.F. Zhao*, Y. Feng*, Y, et al. (2025). Multidirectional coupling vibration characteristics and optimal damping control of superconducting electrodynamic levitated system for high-speed maglev transport. <strong>International Journal of Rail Transportation</strong>. [[Paper]](https://doi.org/10.1080/23248378.2025.2523780)
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- X.J. Wang*, H.X. Yang, Y. <strong>X.B. Xiong</strong>, et al. (2025). Ballast particle modeling method based on Rblock and DEM numerical simulation of single particle crushing. <strong>Construction and Building Materials</strong>. [[Paper]](https://doi.org/10.1016/j.conbuildmat.2025.141052)
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+- X.J. Wang*, H.X. Yang, Y. <strong>X.B. Xiong</strong> (2024). Numerical analysis and application of stress corrosion model considering strain softening. <strong>Computational Particle Mechanics</strong>. [[Paper]](https://doi.org/10.1007/s40571-024-00775-2)
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- <strong>X.B. Xiong</strong>, X.J. Wang* (2023). A cohesive strengthening/damage-plasticity model and its application for DEM numerical investigation in hardening/softening of rock and soil. <strong>Computers and Geotechnics</strong>. [[Paper]](https://doi.org/10.1016/j.compgeo.2023.105500)
 
