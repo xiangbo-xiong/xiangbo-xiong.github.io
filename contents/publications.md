@@ -1,9 +1,9 @@
 
 #### Published
 
-- <strong>X.B. Xiong</strong>, C.F. Zhao*, Y. Feng*, Y (2026). Study on dynamic stability and safety boundary of superconducting electrodynamic suspension system for high-speed maglev transport. <strong>Nonlinear Dynamics</strong>. [[Paper]](https://doi.org/10.1007/s11071-026-12773-5)
+- <strong>X.B. Xiong</strong>, C.F. Zhao*, Y. Feng (2026). Study on dynamic stability and safety boundary of superconducting electrodynamic suspension system for high-speed maglev transport. <strong>Nonlinear Dynamics</strong>. [[Paper]](https://doi.org/10.1007/s11071-026-12773-5)
 
-- <strong>X.B. Xiong</strong>, C.F. Zhao*, Y. Feng*, Y (2025). Multidirectional coupling vibration characteristics and optimal damping control of superconducting electrodynamic levitated system for high-speed maglev transport. <strong>International Journal of Rail Transportation</strong>. [[Paper]](https://doi.org/10.1080/23248378.2025.2523780)
+- <strong>X.B. Xiong</strong>, C.F. Zhao*, Y. Feng (2025). Multidirectional coupling vibration characteristics and optimal damping control of superconducting electrodynamic levitated system for high-speed maglev transport. <strong>International Journal of Rail Transportation</strong>. [[Paper]](https://doi.org/10.1080/23248378.2025.2523780)
 
 - X.J. Wang*, H.X. Yang, <strong>X.B. Xiong</strong> (2025). Ballast particle modeling method based on Rblock and DEM numerical simulation of single particle crushing. <strong>Construction and Building Materials</strong>. [[Paper]](https://doi.org/10.1016/j.conbuildmat.2025.141052)
 
