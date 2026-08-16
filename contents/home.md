@@ -15,4 +15,4 @@ B.E. in Agricultural Mechanization and Automation,
 Jiangxi Agricultural University, 2017–2021
 
 #### Research Interests
-Computational Particle Mechanics; Computational Electromagnetic Mechanics; Superconducting Electrodynamic Suspension Technology
+Computational Particle Mechanics; Computational Electromagnetic Mechanics; Electrodynamic Suspension Technology
